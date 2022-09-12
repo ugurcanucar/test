@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "14063728656",
+    "project_id": "terapizone-tfxd",
+    "storage_bucket": "terapizone-tfxd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14063728656:android:bc4a1dfba739e4fdd37295",
+        "android_client_info": {
+          "package_name": "com.terapizone.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14063728656-pc358ensnefgcn2egtnh5d5p3oi7blh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.terapizone.app",
+            "certificate_hash": "895a50bd01b55d0c54c884530572ec7d56da6009"
+          }
+        },
+        {
+          "client_id": "14063728656-s8or0nr9vif64u3cpqm13183jvpecihb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.terapizone.app",
+            "certificate_hash": "5bf1c8a1a79855e26629169ed79f8e0d08a482ff"
+          }
+        },
+        {
+          "client_id": "14063728656-5dp1boj4vvmmem8qld6tbd3n7bksqe0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeKwEeHcDKLx1yRaOrf_AUvdvcWNvVFnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14063728656-5dp1boj4vvmmem8qld6tbd3n7bksqe0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "14063728656-7sv6sa35cci0s1tk1kjai20am27jmt4u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.terapizone.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
